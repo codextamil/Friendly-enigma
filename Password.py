@@ -1,6 +1,6 @@
 import subprocess
 
-b = ("SUNDAR")
+b = ("password")
 a = input("Enter the password: ")  
     
 if(a == b):
